@@ -8,7 +8,7 @@
                   <a  href="https://apps.microsoft.com/store/search?publisher=Vishnu%20N%20K"><img width="130px" src="https://get.microsoft.com/images/en-us%20dark.svg" class="storebs bmargins" /></a>
   </div>
   <h1></h1>
-                    <p>You can use the <a href="https://visnkmr.github.io/issuereportwriter/" target="_blank">Issue Report Writer</a> to write error reports. Check out <a href="https://telegra.ph/Known-Crashes-03-08" target="_blank">Known Issues</a>, <a href="https://telegra.ph/Queries-Resolved-02-05" target="_blank">Resolved Queries</a>, <a href="https://youtube.com/appchoose">sample footage</a> and <a href="https://appchoose.blogspot.com">Appchoose</a>. I publish updates regarding the projects on <a href="https://t.me/vishnunkmr">Telegram</a>.</p>
+                    <p>You can use the <a href="https://visnkmr.github.io/issuereportwriter/" target="_blank">Issue Report Writer</a> to write error reports. Check out <a href="https://telegra.ph/Known-Crashes-03-08" target="_blank">Known Issues</a>, <a href="https://telegra.ph/Queries-Resolved-02-05" target="_blank">Resolved Queries</a>, <a href="https://youtube.com/@vishnunk">sample footage</a>. I publish updates regarding the projects on <a href="https://t.me/vishnunkmr">Telegram</a>.</p>
                     <div class="">
                         <a href="https://t.me/vishnunkmr"  target="_blank"  ><img src="https://cdn.jsdelivr.net/gh/visnkmr/visnkmr.github.io@master/assets/images/telegram.png" width="auto" height="50"  class="socialmargins" /></a>
                         <a href="https://youtube.com/@vishnunk"  target="_blank" ><img height="50" src="https://cdn.jsdelivr.net/gh/Jay-Tillu/YouTube@master/assets/GitHub%20assets/appstore.png"></a>
