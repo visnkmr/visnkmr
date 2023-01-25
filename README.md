@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=visnkmr)
 <div align="center">
-  <h1>Hi there 👋</h1>
+  <h1>Hi 👋</h1>
 <div class="intro">
   <div>
     <a href="https://play.google.com/store/apps/developer?id=Vishnu+N+K"><img width="130px" src="https://play.google.com/intl/en_us/badges/images/badge_new.png" class="storebs bmargins" /></a>
