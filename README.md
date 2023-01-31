@@ -19,7 +19,7 @@
   <div>
   <a href="https://github.com/visnkmr/ns_gui"  target="_blank" >Netspeed monitor GUI</a> ||
     <a href="https://github.com/visnkmr/ns_daemon"  target="_blank" >Netspeed monitor Daemon</a> ||
-    <a href="https://github.com/visnkmr/perlink"  target="_blank" >Perlink</a> 
+    <a href="https://github.com/visnkmr/perlink"  target="_blank" >Perlink</a> || <a href="https://github.com/visnkmr/checknlock"  target="_blank" >ChecknLock</a>
   </div>
   
                         
