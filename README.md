@@ -15,6 +15,10 @@
               <a  href="https://www.amazon.com/gp/mas/dl/android?p=io.github.visnkmr.bapl&showAll=1"><img width="130px" src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-white.png" class="storebs bmargins" /></a>
                   <a  href="https://apps.microsoft.com/store/search?publisher=Vishnu%20N%20K"><img width="130px" src="https://get.microsoft.com/images/en-us%20dark.svg" class="storebs bmargins" /></a>
   </div>
+  <br/>
+  <div>
+    Background Apps and Process List || Time Netspeed Monitor || File Explorer || Wireless File Manager || No Keyboard || Netspeed Test || Taotlus || Teave || Calculator || Software Power Menu || Software Volume Button || Developer Tools Menu for Fire TV || My IP (D) || TV Time(D) || Memory Monitor(D)
+  </div>
 
    <h1>Desktop Apps</h1>
   <div>
