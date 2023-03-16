@@ -24,7 +24,7 @@
    <h1>Desktop Apps, Libs</h1>
   <div>
   Netspeed monitor <a href="https://github.com/visnkmr/ns_gui"  target="_blank" >GUI</a>, <a href="https://github.com/visnkmr/ns_daemon"  target="_blank" >Daemon</a> ||
-    <a href="https://github.com/visnkmr/perlink"  target="_blank" >Perlink</a> || <a href="https://github.com/visnkmr/checknlock"  target="_blank" >ChecknLock</a> || <a href="https://github.com/visnkmr/prefstore"  target="_blank" >Prefstore</a> || <a href="#"  target="_blank" >Weblinklist</a> || <a href="#"  target="_blank" >Xbel-parser</a>
+    <a href="https://github.com/visnkmr/perlink"  target="_blank" >Perlink</a> || <a href="https://github.com/visnkmr/checknlock"  target="_blank" >ChecknLock</a> || <a href="https://github.com/visnkmr/prefstore"  target="_blank" >Prefstore</a> || <a href="#"  target="_blank" >Weblinklist (NPAY)</a> || <a href="#"  target="_blank" >Xbel-parser (NPAY)</a> || <a href="#"  target="_blank" >Json-bookmark-parser (NPAY)</a> *NPAY-Not publically available yet
   </div>
     <h1>Support</h1>
                     <p>You can use the <a href="https://visnkmr.github.io/issuereportwriter/" target="_blank">Issue Report Writer</a> to write error reports.<br/>Check out <a href="https://telegra.ph/Known-Crashes-03-08" target="_blank">Known Issues</a>, <a href="https://telegra.ph/Queries-Resolved-02-05" target="_blank">Resolved Queries</a>, <a href="https://youtube.com/@vishnunk">sample footage</a>.
