@@ -24,11 +24,12 @@
    <h1>Desktop Apps, Libs</h1>
   <div>
   Netspeed monitor <a href="https://github.com/visnkmr/ns_gui"  target="_blank" >GUI</a>, <a href="https://github.com/visnkmr/ns_daemon"  target="_blank" >Daemon</a> ||
-    <a href="https://github.com/visnkmr/perlink"  target="_blank" >Perlink</a> || <a href="https://github.com/visnkmr/checknlock"  target="_blank" >ChecknLock</a> || <a href="https://github.com/visnkmr/prefstore"  target="_blank" >Prefstore</a> || <a href="#"  target="_blank" >Weblinklist - Rust (NPAY)</a> || <a href="#"  target="_blank" >Xbel-parser (NPAY)</a> || <a href="#"  target="_blank" >Json-bookmark-parser (NPAY)</a> || <a href="#"  target="_blank" >Disk Usage Monitor for Linux (NPAY)</a> || <a href="#"  target="_blank" >Weblinklist - NodeJS (NPAY)</a>*NPAY-Not publically available yet
+    <a href="https://github.com/visnkmr/perlink"  target="_blank" >Perlink</a> || <a href="https://github.com/visnkmr/checknlock"  target="_blank" >ChecknLock</a> || <a href="https://github.com/visnkmr/prefstore"  target="_blank" >Prefstore</a> || <a href="#"  target="_blank" >Weblinklist - Rust (NPAY)</a> || <a href="#"  target="_blank" >Xbel-parser (NPAY)</a> || <a href="#"  target="_blank" >Json-bookmark-parser (NPAY)</a> || <a href="#"  target="_blank" >Disk Usage Monitor for Linux (NPAY)</a> || <a href="#"  target="_blank" >Weblinklist - NodeJS (NPAY)</a>
   </div>
     <h1>Support</h1>
                     <p>You can use the <a href="https://visnkmr.github.io/issuereportwriter/" target="_blank">Issue Report Writer</a> to write error reports.<br/>Check out <a href="https://telegra.ph/Known-Crashes-03-08" target="_blank">Known Issues</a>, <a href="https://telegra.ph/Queries-Resolved-02-05" target="_blank">Resolved Queries</a>, <a href="https://youtube.com/@vishnunk">sample footage</a>.
-                      <br/>I publish updates regarding the projects on <a href="https://t.me/vishnunkmr">Telegram</a>.</p>
+                      <br/>I publish updates regarding the projects on <a href="https://t.me/vishnunkmr">Telegram</a>.<br/>*D-Long Term Support<br/>*NPAY-Not publically available yet
+  </p>
                         
 <!--                         <a href="https://twitter.com/visnkmr"  target="_blank"  ><img height="50" src="https://cdn.jsdelivr.net/gh/visnkmr/visnkmr.github.io@master/assets/images/twitter.png"  class="socials socialmargins"/></a>  -->
   
