@@ -30,6 +30,10 @@
                     <p>You can use the <a href="https://visnkmr.github.io/issuereportwriter/" target="_blank">Issue Report Writer</a> to write error reports.<br/>Check out <a href="https://telegra.ph/Known-Crashes-03-08" target="_blank">Known Issues</a>, <a href="https://telegra.ph/Queries-Resolved-02-05" target="_blank">Resolved Queries</a>, <a href="https://youtube.com/@vishnunk">sample footage</a>.
                       <br/>I publish updates regarding the projects on <a href="https://t.me/vishnunkmr">Telegram</a>.<br/>*D-Long Term Support<br/>*NPAY-Not publically available yet
   </p>
+  <h1>👨‍💻</h1>
+  🛠️ Rust, Python, Java (Android),R , Kotlin  (Android), Swift (Basics), Web {HTML, CSS, Javascript}, Linux, bash scripting<br/>
+🖥️ Manjaro Linux, Win11<br/>
+Local(SH): Gitea, Floccus, Dufs, Olivetin, Weblinklist,Proxmox*, Nextcloud*.
                         
 <!--                         <a href="https://twitter.com/visnkmr"  target="_blank"  ><img height="50" src="https://cdn.jsdelivr.net/gh/visnkmr/visnkmr.github.io@master/assets/images/twitter.png"  class="socials socialmargins"/></a>  -->
   
