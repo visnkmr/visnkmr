@@ -1,13 +1,27 @@
 ![](https://komarev.com/ghpvc/?username=visnkmr)
 <div align="center">
   <b><i>Powering 15million+ sessions.</i></b>
-  <h1>Social</h1>
-  <div class="">
+<!--   <h1>Social</h1> -->
+  <div> 
+    <br/>
+   
+<!-- [![](https://img.shields.io/badge/-Twitter-white?style=flat-square&logo=twitter)](https://twitter.com/visnkmr) -->
+[![](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vishnunk-59124/)
+[![](https://img.shields.io/badge/-Telegram-white?style=flat-square&logo=telegram)](https://vishnunkmr.t.me/)
+[![](https://img.shields.io/badge/-Codeberg-white?style=flat-square&logo=codeberg)](https://codeberg.org/visnk)
+[![](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=youtube)](https://youtube.com/@vishnunk)
+[![](https://img.shields.io/badge/-Website-white?&style=flat-square&logo=Google-Chrome)](https://visnk.pages.dev/)
+[![](https://img.shields.io/badge/-Gmail-white?&style=flat-square&logo=Gmail)](mailto:visnkmr@gmail.com)
+<!-- [![GitHub Vishnu N K](https://img.shields.io/github/followers/visnkmr?label=VishnuNK&style=social)](https://github.com/visnkmr) -->
+    
+  </div>
+  
+<!--   <div class="">
                         <a href="https://t.me/vishnunkmr"  target="_blank"  ><img src="https://cdn.jsdelivr.net/gh/visnkmr/visnkmr.github.io@master/assets/images/telegram.png" width="auto" height="50"  class="socialmargins" /></a>
                         <a href="https://youtube.com/@vishnunk"  target="_blank" ><img height="50" src="https://developers.google.com/static/site-assets/logo-youtube.svg"></a>
   <a href="https://codeberg.org/visnk"  target="_blank" ><img height="50" src="https://avatars.githubusercontent.com/u/48032531?v=4"></a>
                         <a href="https://www.linkedin.com/in/vishnunk-59124/"  target="_blank" ><img height="50" src="https://cdn.jsdelivr.net/gh/visnkmr/visnkmr.github.io@master/assets/images/linkedin.png" class="socials socialmargins"/></a>
-  <a href="mailto: visnkmr@gmail.com"  target="_blank" ><img height="50" src="https://cdn.jsdelivr.net/gh/visnkmr/visnkmr.github.io@master/assets/images/gmail.png" class="socials socialmargins" /></a> </div> 
+  <a href="mailto: visnkmr@gmail.com"  target="_blank" ><img height="50" src="https://cdn.jsdelivr.net/gh/visnkmr/visnkmr.github.io@master/assets/images/gmail.png" class="socials socialmargins" /></a> </div>  -->
   <h1>Android apps</h1>
 <div class="intro">
   
