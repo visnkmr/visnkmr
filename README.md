@@ -46,7 +46,7 @@
   </p>
   <h1>👨‍💻</h1>
   🛠️ Rust, Python, Java (Android),R , Kotlin  (Android), Swift (Basics), Web {HTML, CSS, Javascript}, Linux, bash scripting<br/>
-🖥️ Manjaro Linux, Win11<br/>
+🖥️ Arch GNU/Linux, Win11<br/>
 Local(SH): Gitea, Floccus, Dufs, Olivetin, Weblinklist,Proxmox*, Nextcloud*.
                         
 <!--                         <a href="https://twitter.com/visnkmr"  target="_blank"  ><img height="50" src="https://cdn.jsdelivr.net/gh/visnkmr/visnkmr.github.io@master/assets/images/twitter.png"  class="socials socialmargins"/></a>  -->
