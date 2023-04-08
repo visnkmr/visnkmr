@@ -37,7 +37,7 @@
 
    <h1>Desktop Apps, Libs</h1>
   <div>
-  Netspeed monitor <a href="https://github.com/visnkmr/ns_gui"  target="_blank" >GUI</a>, <a href="https://github.com/visnkmr/ns_daemon"  target="_blank" >Daemon</a> ||
+  Netspeed monitor <a href="https://github.com/visnkmr/ns_gui"  target="_blank" >GUI</a>, <a href="https://github.com/visnkmr/tns_daemon"  target="_blank" >Daemon</a> ||
     <a href="https://github.com/visnkmr/perlink"  target="_blank" >Perlink</a> || <a href="https://github.com/visnkmr/checknlock"  target="_blank" >ChecknLock</a> || <a href="https://github.com/visnkmr/prefstore"  target="_blank" >Prefstore</a> || <a href="#"  target="_blank" >Weblinklist - Rust (NPAY)</a> || <a href="#"  target="_blank" >Xbel-parser (NPAY)</a> || <a href="#"  target="_blank" >Json-bookmark-parser (NPAY)</a> || <a href="#"  target="_blank" >Disk Usage Monitor for Linux (NPAY)</a> || <a href="#"  target="_blank" >Weblinklist - NodeJS (NPAY)</a>
   </div>
     <h1>Support</h1>
