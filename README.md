@@ -24,39 +24,44 @@
       - [Netspeed HTTP Server](https://github.com/visnkmr/netspeed_server_http/releases/latest)  
     - GUI (Python)
       - [Netspeed GUI](https://github.com/visnkmr/ns_gui/releases/latest)  
-  - LogLinktoDisk Extension for chrome and firefox
-  - [Perlink](https://github.com/visnkmr/perlink)   
-  - [ChecknLock](https://github.com/visnkmr/checknlock)  
+  - LogLinktoDisk (Javascript & Chrome,Firefox APIs)
+    - [Chrome extension](https://github.com/visnkmr/LogLink2Disk_chrome)
+    - [Firefox extension](https://github.com/visnkmr/LogLink2Disk_Firefox_extension)
+  - Perlink let you Choose browser to open on per link basis on windows, linux and mac. (Rust)
+    - [Perlink](https://github.com/visnkmr/perlink)   
   - [Prefstore](https://github.com/visnkmr/prefstore) 
-  - [Weblinklist - Rust (NPAY)](#)
-  - [Xbel-parser (NPAY)](#)
-  - [Json-bookmark-parser (NPAY)](#)
-  - [Disk Usage Monitor for Linux (NPAY)](#)
-  - [Weblinklist - NodeJS (NPAY)](#)
-  - Take Notes   
-  - SMS WordCloud
-  - Amazon Appstore Sales CSV Data Analyzer
-  - Google Play Console CSV Data Analyzer
-  - ADB Keyboard, Remote and Shell
+  - Weblinklist(NPAY)
+    - [NodeJS](#)
+    - [Rust](#)
+    - [Xbel-parser (NPAY)](#)
+    - [Json-bookmark-parser (NPAY)](#)
+  - Disk Usage Monitor (NPAY)
+    - [Linux](#)
+  - Take Notes (Kotlin)
+  - SMS WordCloud (R)
+  - CSV Data Analyzer (R)
+    - Amazon Appstore Sales 
+    - Google Play Console
+  - ADB Keyboard, Remote and Shell (Java)
     
   
 # Android apps, Desktop Apps, Libs
     
-- Background Apps and Process List
-- Time Netspeed Monitor
-- File Explorer
-- Wireless File Manager
-- No Keyboard
-- Netspeed Test
-- Taotlus
-- Teave
-- Calculator
-- Software Power Menu
-- Software Volume Button
-- Developer Tools Menu for Fire TV
-- My IP (D)
-- TV Time(D)
-- Memory Monitor(D)  
+- Background Apps and Process List (Java) 
+- Time Netspeed Monitor (Java) 
+- File Explorer (Java)
+- Wireless File Manager 
+- No Keyboard (Java)
+- Netspeed Test (Java)
+- Taotlus (Java,Kotlin)
+- Teave (Java)
+- Calculator (Java)
+- Software Power Menu (Java)
+- Software Volume Button (Java)
+- Developer Tools Menu for Fire TV (Java)
+- My IP (D) (Java)
+- TV Time(D) (Java)
+- Memory Monitor(D) (Java)
     
   
 # Support
@@ -71,7 +76,9 @@ I publish updates regarding the projects on [Telegram](https://t.me/vishnunkmr).
 
 🛠️ Rust, Python, Java (Android),R , Kotlin  (Android), Swift (Basics), Web {HTML, CSS, Javascript}, Linux, bash scripting  
 🖥️ Arch GNU/Linux, Win11  
-Local(SH): Gitea, Floccus, Dufs, Olivetin, Weblinklist,Proxmox*, Nextcloud*.
+Local(SH): Gitea, Floccus, Dufs, Olivetin, Weblinklist,Proxmox*, Nextcloud*.  
+Helpful scripts: 
+  - [ChecknLock](https://github.com/visnkmr/checknlock)  
 <!--
 **visnkmr/visnkmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
