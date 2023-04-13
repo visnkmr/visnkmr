@@ -16,25 +16,25 @@
 [![](https://img.shields.io/badge/-Gmail-white?&style=flat-square&logo=Gmail)](mailto:visnkmr@gmail.com)
 
   
-# Open Source Repos
-    
+# Open Source Repos    
   - Netspeed monitor for Windows, Mac, Linux
     - Server (Rust)
       - [Netspeed SSE Server](https://github.com/visnkmr/netspeed_server/releases/latest)
       - [Netspeed HTTP Server](https://github.com/visnkmr/netspeed_server_http/releases/latest)  
     - GUI (Python)
       - [Netspeed GUI](https://github.com/visnkmr/ns_gui/releases/latest)  
+  - Rust crates
+    - [Prefstore](https://github.com/visnkmr/prefstore) 
+    - [Xbel-parser (NPAY)](#)
+    - [Json-bookmark-parser (NPAY)](#)
   - LogLinktoDisk (Javascript & Chrome,Firefox APIs)
     - [Chrome extension](https://github.com/visnkmr/LogLink2Disk_chrome)
     - [Firefox extension](https://github.com/visnkmr/LogLink2Disk_Firefox_extension)
   - Perlink let you Choose browser to open on per link basis on windows, linux and mac. (Rust)
     - [Perlink](https://github.com/visnkmr/perlink)   
-  - [Prefstore](https://github.com/visnkmr/prefstore) 
   - Weblinklist(NPAY)
     - [NodeJS](#)
     - [Rust](#)
-    - [Xbel-parser (NPAY)](#)
-    - [Json-bookmark-parser (NPAY)](#)
   - Disk Usage Monitor (NPAY)
     - [Linux](#)
   - Take Notes (Kotlin)
