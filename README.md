@@ -50,7 +50,10 @@
 - Background Apps and Process List (Java) : Uses API, Volley, Accessibility in unreleased Autoclose version of the app.
 - Time Netspeed Monitor (Java) : Uses Overlay.
 - File Explorer (Java) : Uses ForkJoin pool, Fuzzy Logic based search, Memoization, Glide, GSON, Recycleview.
+  - Latest & actively maintained version on amazon appstore.
 - Wireless File Manager (Java)
+  - Limited unmaintained version on Google Play
+  - Latest & actively maintained version on amazon appstore.
 - No Keyboard (Java)
 - Netspeed Test (Java)
 - Taotlus (Java,Kotlin) : Use coroutine, picasso, fuzzy logic based search, recycleview.
@@ -59,10 +62,6 @@
 - Software Power Menu (Java)
 - Software Volume Button (Java)
 - Developer Tools Menu for Fire TV (Java)
-- My IP (D) (Java)
-- TV Time(D) (Java)
-- Memory Monitor(D) (Java)
-    
   
 # Support
 
