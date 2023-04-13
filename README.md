@@ -18,7 +18,12 @@
   
 # Open Source Repos
     
-  - Netspeed monitor for Windows, Mac, Linux  
+  - Netspeed monitor for Windows, Mac, Linux
+    - Server (Rust)
+      - [Netspeed SSE Server](https://github.com/visnkmr/netspeed_server/releases/latest)
+      - [Netspeed HTTP Server](https://github.com/visnkmr/netspeed_server_http/releases/latest)  
+    - GUI (Python)
+      - [Netspeed GUI](https://github.com/visnkmr/ns_gui/releases/latest)  
   - LogLinktoDisk Extension for chrome and firefox
   - [Perlink](https://github.com/visnkmr/perlink)   
   - [ChecknLock](https://github.com/visnkmr/checknlock)  
