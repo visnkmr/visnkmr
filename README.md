@@ -62,14 +62,6 @@
 - Software Power Menu (Java)
 - Software Volume Button (Java)
 - Developer Tools Menu for Fire TV (Java)
-  
-# Support
-
-You can use the [Issue Report Writer](https://visnkmr.github.io/issuereportwriter/) to write error reports.  
-Check out [Known Issues](https://telegra.ph/Known-Crashes-03-08), [Resolved Queries](https://telegra.ph/Queries-Resolved-02-05), [sample footage](https://youtube.com/@vishnunk).  
-I publish updates regarding the projects on [Telegram](https://t.me/vishnunkmr).  
-*D-Long Term Support  
-*NPAY-Not publically available yet
 
 # 👨‍💻
 
