@@ -37,7 +37,7 @@
     - [Rust](#)
   - Disk Usage Monitor (NPAY)
     - [Linux](#)
-  - Take Notes (Kotlin)
+  - Take Notes (Kotlin): Uses coroutine, datastore
   - SMS WordCloud (R)
   - CSV Data Analyzer (R)
     - Amazon Appstore Sales 
@@ -47,13 +47,13 @@
   
 # Android apps, Desktop Apps, Libs
     
-- Background Apps and Process List (Java) 
-- Time Netspeed Monitor (Java) 
-- File Explorer (Java)
-- Wireless File Manager 
+- Background Apps and Process List (Java) : Uses API, Volley, Accessibility in unreleased Autoclose version of the app.
+- Time Netspeed Monitor (Java) : Uses Overlay.
+- File Explorer (Java) : Uses ForkJoin pool, Fuzzy Logic based search, Memoization, Glide, GSON, Recycleview.
+- Wireless File Manager (Java)
 - No Keyboard (Java)
 - Netspeed Test (Java)
-- Taotlus (Java,Kotlin)
+- Taotlus (Java,Kotlin) : Use coroutine, picasso, fuzzy logic based search, recycleview.
 - Teave (Java)
 - Calculator (Java)
 - Software Power Menu (Java)
