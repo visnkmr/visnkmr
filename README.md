@@ -23,13 +23,18 @@
       - [Netspeed HTTP Server](https://github.com/visnkmr/netspeed_server_http/releases/latest)  
     - GUI (Python)
       - [Netspeed GUI](https://github.com/visnkmr/ns_gui/releases/latest)  
+    - Single Control UI (TCL)
+      - [Control Center](https://github.com/visnkmr/netspeed_monitor_control_center)
   - Rust crates
     - [Prefstore](https://github.com/visnkmr/prefstore) 
     - [Xbel-parser (NPAY)](#)
     - [Json-bookmark-parser (NPAY)](#)
   - LogLinktoDisk (Javascript & Chrome,Firefox APIs)
-    - [Chrome extension](https://github.com/visnkmr/LogLink2Disk_chrome)
-    - [Firefox extension](https://github.com/visnkmr/LogLink2Disk_Firefox_extension)
+    - Extensions (JS, HTML)
+      - [Chrome extension](https://github.com/visnkmr/LogLink2Disk_chrome)
+      - [Firefox extension](https://github.com/visnkmr/LogLink2Disk_Firefox_extension)
+    - Server to SavetoDisk (Rust)
+      - [SavetoDisk](https://github.com/visnkmr/savetodisk)
   - Perlink let you Choose browser to open on per link basis on windows, linux and mac. (Rust)
     - [Perlink](https://github.com/visnkmr/perlink)   
   - Weblinklist(NPAY)
@@ -65,9 +70,9 @@
 
 # 👨‍💻
 Most repos are Mirror of local gitea repo for github.  
-🛠️ Rust, Python, Java (Android),R , Kotlin  (Android), Swift (Basics), Web {HTML, CSS, Javascript}, Linux, bash scripting  
+🛠️ Rust, Python, Java (Android),R , Kotlin  (Android), Swift (Basics), Web {HTML, CSS, Javascript}, TCL, Linux, bash scripting  
 🖥️ Arch GNU/Linux, Win11  
-Local(SH): Gitea, Floccus, Dufs, Olivetin, Weblinklist,Proxmox*, Nextcloud*.  
+Local(SH): Gitea, Floccus, Dufs, Olivetin, Weblinklist,Proxmox*, Nextcloud*, Github workflow.  
 Helpful scripts: 
   - [ChecknLock](https://github.com/visnkmr/checknlock)  
 <!--
