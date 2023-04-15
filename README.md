@@ -1,12 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=visnkmr)
-
-  <b><i>Powering 15million+ sessions.</i></b>
-
-  <div>
-    <a href="https://play.google.com/store/apps/developer?id=Vishnu+N+K"><img width="130px" src="https://play.google.com/intl/en_us/badges/images/badge_new.png" class="storebs bmargins" /></a>
-              <a  href="https://www.amazon.com/gp/mas/dl/android?p=io.github.visnkmr.bapl&showAll=1"><img width="130px" src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-white.png" class="storebs bmargins" /></a>
-                  <a  href="https://apps.microsoft.com/store/search?publisher=Vishnu%20N%20K"><img width="130px" src="https://get.microsoft.com/images/en-us%20dark.svg" class="storebs bmargins" /></a>
-  </div>
       
 [![](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vishnunk-59124/)
 [![](https://img.shields.io/badge/-Telegram-white?style=flat-square&logo=telegram)](https://vishnunkmr.t.me/)
@@ -51,6 +43,15 @@
     
   
 # Android apps, Desktop Apps, Libs
+
+<b><i>Powering 15million+ sessions.</i></b>
+
+  <div>
+    <a href="https://play.google.com/store/apps/developer?id=Vishnu+N+K"><img width="130px" src="https://play.google.com/intl/en_us/badges/images/badge_new.png" class="storebs bmargins" /></a>
+              <a  href="https://www.amazon.com/gp/mas/dl/android?p=io.github.visnkmr.bapl&showAll=1"><img width="130px" src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-white.png" class="storebs bmargins" /></a>
+                  <a  href="https://apps.microsoft.com/store/search?publisher=Vishnu%20N%20K"><img width="130px" src="https://get.microsoft.com/images/en-us%20dark.svg" class="storebs bmargins" /></a>
+  </div>
+    
     
 - Background Apps and Process List (Java) : Uses API, Volley, Accessibility in unreleased Autoclose version of the app.
 - Time Netspeed Monitor (Java) : Uses Overlay.
