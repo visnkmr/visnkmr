@@ -13,8 +13,9 @@
     - Server (Rust)
       - [Netspeed SSE Server](https://github.com/visnkmr/netspeed_server/releases/latest)
       - [Netspeed HTTP Server](https://github.com/visnkmr/netspeed_server_http/releases/latest)  
-    - GUI (Python)
-      - [Netspeed GUI](https://github.com/visnkmr/ns_gui/releases/latest)  
+    - GUI for Netspeed SSE Server
+      - [Netspeed GUI - 950KiB (Tauri)](https://github.com/visnkmr/netspeed_gui/releases/latest)
+      - [Netspeed GUI -11 MiB (Python)](https://github.com/visnkmr/ns_gui/releases/latest)  
     - Single Control UI (TCL)
       - [Control Center](https://github.com/visnkmr/netspeed_monitor_control_center)
   - Rust crates
