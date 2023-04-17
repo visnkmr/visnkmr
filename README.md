@@ -10,14 +10,17 @@
   
 # Open Source Repos    
   - Netspeed monitor for Windows, Mac, Linux
-    - Server (Rust)
-      - [Netspeed SSE Server](https://github.com/visnkmr/netspeed_server/releases/latest)
-      - [Netspeed HTTP Server](https://github.com/visnkmr/netspeed_server_http/releases/latest)  
-    - GUI for Netspeed SSE Server
-      - [Netspeed GUI - 950KiB (Tauri)](https://github.com/visnkmr/netspeed_gui/releases/latest)
-      - [Netspeed GUI -11 MiB (Python)](https://github.com/visnkmr/ns_gui/releases/latest)  
-    - Single Control UI (TCL)
-      - [Control Center](https://github.com/visnkmr/netspeed_monitor_control_center)
+      - [Single App](https://github.com/visnkmr/netspeed_pc/releases/latest). (Size:1MiB) (Tauri: HTML, CSS, JS (Typesript) GUI and Rust backend)
+        - [Repo](https://github.com/visnkmr/netspeed_pc)
+      - Backend and GUI separate
+          - Server (Rust) ~300KiB
+            - [Netspeed SSE Server](https://github.com/visnkmr/netspeed_server/releases/latest)
+            - [Netspeed HTTP Server](https://github.com/visnkmr/netspeed_server_http/releases/latest)  
+          - GUI for Netspeed SSE Server
+            - [Netspeed GUI - 950KiB (Tauri)](https://github.com/visnkmr/netspeed_gui/releases/latest)
+            - [Netspeed GUI -11 MiB (Python)](https://github.com/visnkmr/ns_gui/releases/latest)  
+          - Single Control UI (TCL)
+            - [Control Center](https://github.com/visnkmr/netspeed_monitor_control_center)
   - Rust crates
     - [Prefstore](https://github.com/visnkmr/prefstore) 
     - [Xbel-parser (NPAY)](#)
