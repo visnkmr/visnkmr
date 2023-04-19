@@ -11,8 +11,8 @@
 # Open Source Repos    
   - Netspeed monitor for Windows, Mac, Linux
       - [Single App](https://github.com/visnkmr/netspeed_pc/releases/latest). (Size:1MiB) (Tauri: HTML, CSS, JS (Typesript) GUI and Rust backend)
-        - [Using SSE Server](https://github.com/visnkmr/netspeed_pc)
-        - [Using Tauri inbuilt websocket](https://github.com/visnkmr/netspeed_pc/tree/tauri-events)
+        - [Single app Using SSE](https://github.com/visnkmr/netspeed_pc) (recommended)
+        - [Single App Using Tauri's inbuilt websocket](https://github.com/visnkmr/netspeed_tauri_websocket)
       - Backend and GUI separate
           - Server (Rust) ~300KiB
             - [Netspeed SSE Server](https://github.com/visnkmr/netspeed_server/releases/latest)
