@@ -15,7 +15,8 @@
         - [Single App Using Tauri's inbuilt websocket](https://github.com/visnkmr/netspeed_tauri_websocket)
       - Backend and GUI separate
           - Server (Rust) ~300KiB
-            - [Netspeed SSE Server](https://github.com/visnkmr/netspeed_server/releases/latest)
+            - [Netspeed SSE Server Single Client](https://github.com/visnkmr/netspeed_server/releases/latest)
+            - [Netspeed SSE Server Multi client](https://github.com/visnkmr/netspeed_server/tree/multi_sse_atomic)
             - [Netspeed HTTP Server](https://github.com/visnkmr/netspeed_server_http/releases/latest)  
           - GUI for Netspeed SSE Server
             - [Netspeed GUI - 950KiB (Tauri)](https://github.com/visnkmr/netspeed_gui/releases/latest)
