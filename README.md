@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/-Gmail-white?&style=flat-square&logo=Gmail)](mailto:visnkmr@gmail.com)
 
 <details>
-<summary>Open Soure Repos (click/tap to expand)</summary>  
+<summary>Open Soure Repos (20+ projects; click/tap to expand)</summary>  
       
 # Open Source Repos    
   - File Explorer with built in markdown viewer for Windows, Mac, Linux (Work In Progress)
