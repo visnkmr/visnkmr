@@ -32,12 +32,16 @@
     - [Prefstore](https://github.com/visnkmr/prefstore) 
     - [Xbel-parser (NPAY)](#)
     - [Json-bookmark-parser (NPAY)](#)
-  - LogLinktoDisk (Javascript & Chrome,Firefox APIs)
+  - LogLinktoDisk (Javascript & Chrome,Firefox APIs) : to save Link/links to markdown file locally like Onetab extension but with local disk storage.
     - Extensions (JS, HTML)
       - [Chrome extension](https://github.com/visnkmr/LogLink2Disk_chrome)
       - [Firefox extension](https://github.com/visnkmr/LogLink2Disk_Firefox_extension)
-    - Server to SavetoDisk (Rust)
+    - LLD SavetoDisk: Backend for LogLinktoDisk (Rust)
       - [SavetoDisk](https://github.com/visnkmr/savetodisk)
+    - LLD ServeLocal: Backend for LogLinktoDisk (Rust) that along with saving locally + also serves the last saved session over lan network
+      - [SavetoDisk](https://github.com/visnkmr/savetodisk/tree/serve_markdowns)
+    - LLD Perlink: Backend for LogLinktoDisk (Rust) that does not save to disk but shows options to choose browser to open link in.
+      - [SavetoDisk](https://github.com/visnkmr/savetodisk/tree/open_link_in)
   - Perlink let you Choose browser to open on per link basis on windows, linux and mac. (Rust)
     - [Perlink](https://github.com/visnkmr/perlink)   
   - Weblinklist(NPAY)
