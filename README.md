@@ -7,7 +7,9 @@
 [![](https://img.shields.io/badge/-Website-white?&style=flat-square&logo=Google-Chrome)](https://visnk.pages.dev/)
 [![](https://img.shields.io/badge/-Gmail-white?&style=flat-square&logo=Gmail)](mailto:visnkmr@gmail.com)
 
-  
+<details>
+<summary>Open Soure Repos (click/tap to expand)</summary>  
+      
 # Open Source Repos    
   - File Explorer with built in markdown viewer for Windows, Mac, Linux (Work In Progress)
       - [Single App](https://github.com/visnkmr/markdown_viewer_pc/tree/explorer). <5MiB (Tauri: HTML, CSS, JS (Typescript) GUI and Rust backend)
@@ -50,7 +52,8 @@
     - Google Play Console
   - ADB Keyboard, Remote and Shell (Java)
     
-  
+</details>
+      
 # Android apps, Desktop Apps, Libs
 
 <b><i>Powering 15million+ sessions.</i></b>
