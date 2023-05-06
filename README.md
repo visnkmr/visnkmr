@@ -87,7 +87,7 @@
 
 # 👨‍💻
 Most repos are Mirror of local gitea repo for github.  
-🛠️ Rust, Python, Java (Android), Kotlin  (Android), HTML, CSS, Typescript, Javascript,R , Swift (Basics), TCL, Linux, bash scripting  
+🛠️ Rust, Typescript, Java (Android), Kotlin  (Android), Javascript, HTML, CSS, Python, R, Swift (Basics), TCL, Linux, bash scripting  
 🖥️ Arch GNU/Linux, Win11  
 Local(SH): Gitea, Floccus, Dufs, Olivetin, Joplin, Weblinklist,Proxmox*, Nextcloud*, Github workflow.  
 Helpful scripts: 
