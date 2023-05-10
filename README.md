@@ -12,8 +12,8 @@
       
 # Open Source Repos    
   - File Explorer with built in markdown viewer for Windows, Mac, Linux (Work In Progress)
-      - [Single App](https://github.com/visnkmr/markdown_viewer_pc/tree/explorer). ~1MiB (Tauri: HTML, CSS, JS (Typescript) GUI and Rust backend)
-      - [Markdown Viewer only](https://github.com/visnkmr/markdown_viewer_pc/). <1MiB (Tauri: HTML, CSS, JS (Typescript) GUI and Rust backend)
+      - [Single App](https://github.com/visnkmr/iomer). ~1MiB (Rust and Tauri)
+      - [Markdown Viewer only](https://github.com/visnkmr/markdown_viewer_pc/). <1MiB (Rust and Tauri)
   - Netspeed monitor for Windows, Mac, Linux
       - [Single App](https://github.com/visnkmr/netspeed_pc/releases/latest). (Size:1MiB) (Tauri: HTML, CSS, JS (Typesript) GUI and Rust backend)
         - [Single app Using SSE](https://github.com/visnkmr/netspeed_pc) (recommended)
