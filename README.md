@@ -44,8 +44,8 @@
   - Weblinklist(NPAY)
     - [NodeJS](#)
     - [Rust](#)
-  - Disk Usage Monitor (NPAY)
-    - [Linux](#)
+  - Disk Usage Monitor (Rust)
+    - [Linux](https://github.com/visnkmr/dude)
   - Take Notes (Kotlin): Uses coroutine, datastore
   - SMS WordCloud (R)
   - CSV Data Analyzer (R)
@@ -85,6 +85,7 @@ Local(SH): Gitea, Floccus, Dufs, Olivetin, Joplin, Weblinklist,Proxmox*, Nextclo
 Helpful scripts: 
   - [ChecknLock](https://github.com/visnkmr/checknlock)
   - [Codeberg,Gitea->Planetscale, Appcenter->Planetscale](https://github.com/visnkmr/apihub)
+  - [Disk Usage Monitor (Rust)](https://github.com/visnkmr/dude)
 <!--
 **visnkmr/visnkmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
