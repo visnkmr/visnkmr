@@ -70,14 +70,13 @@
     
     
 - Background Apps and Process List (Java) : Uses API, Volley, Accessibility in unreleased Autoclose version of the app.
-- Time Netspeed Monitor (Java) : Uses Overlay.
 - File Explorer (Java) : Uses ForkJoin pool, Fuzzy Logic based search, Memoization, Glide, GSON, Recycleview.
-  - Latest & actively maintained version on amazon appstore.
 - Wireless File Manager (Java & WebUI frontend using NextJS, React, Tailwind)
 - No Keyboard (Java)
 - Netspeed Test (Java)
 - Taotlus (Java,Kotlin) : Use coroutine, picasso, fuzzy logic based search, recycleview.
 - Teave (Java)
+- Time Netspeed Monitor (Java) : Uses Overlay.
 - Calculator (Java)
 - Software Power Menu (Java)
 - Software Volume Button (Java)
