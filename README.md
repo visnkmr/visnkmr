@@ -7,8 +7,7 @@
 [![](https://img.shields.io/badge/-Website-white?&style=flat-square&logo=Google-Chrome)](https://visnk.pages.dev/)
 [![](https://img.shields.io/badge/-Gmail-white?&style=flat-square&logo=Gmail)](mailto:visnkmr@gmail.com)
 
-<details>
-<summary>Open Soure Repos (20+ projects; click/tap to expand)</summary>  
+Open Soure Repos (20+ projects; click/tap to expand)
       
 # Open Source Repos    
   - File Explorer with built in markdown viewer for Windows, Mac, Linux (Work In Progress)
@@ -55,8 +54,6 @@
     - Amazon Appstore Sales 
     - Google Play Console
   - ADB Keyboard, Remote and Shell (Java)
-    
-</details>
       
 # Android apps, Desktop Apps, Libs
 
@@ -88,7 +85,8 @@ Most repos are Mirror of local gitea repo for github.
 🖥️ Arch GNU/Linux, Win11  
 Local(SH): Gitea, Floccus, Dufs, Olivetin, Joplin, Weblinklist,Proxmox*, Nextcloud*, Github workflow.  
 Helpful scripts: 
-  - [ChecknLock](https://github.com/visnkmr/checknlock)  
+  - [ChecknLock](https://github.com/visnkmr/checknlock)
+  - [Codeberg,Gitea->Planetscale, Appcenter->Planetscale](https://github.com/visnkmr/apihub)
 <!--
 **visnkmr/visnkmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
