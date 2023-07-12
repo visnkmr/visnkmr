@@ -73,9 +73,7 @@
 - Time Netspeed Monitor (Java) : Uses Overlay.
 - File Explorer (Java) : Uses ForkJoin pool, Fuzzy Logic based search, Memoization, Glide, GSON, Recycleview.
   - Latest & actively maintained version on amazon appstore.
-- Wireless File Manager (Java)
-  - Limited unmaintained version on Google Play
-  - Latest & actively maintained version on amazon appstore.
+- Wireless File Manager (Java & WebUI frontend using NextJS, React, Tailwind)
 - No Keyboard (Java)
 - Netspeed Test (Java)
 - Taotlus (Java,Kotlin) : Use coroutine, picasso, fuzzy logic based search, recycleview.
