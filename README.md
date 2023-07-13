@@ -45,10 +45,6 @@
     - [NodeJS](#)
     - [Rust](#)
   - Take Notes (Kotlin): Uses coroutine, datastore
-  - SMS WordCloud (R)
-  - CSV Data Analyzer (R)
-    - Amazon Appstore Sales 
-    - Google Play Console
   - ADB Keyboard, Remote and Shell (Java)
       
 # Android apps, Desktop Apps, Libs
@@ -84,6 +80,10 @@ Helpful scripts:
   - [ChecknLock](https://github.com/visnkmr/checknlock)
   - [Codeberg,Gitea->Planetscale, Appcenter->Planetscale](https://github.com/visnkmr/apihub)
   - [Linux Disk Usage Monitor (Rust)](https://github.com/visnkmr/dude)
+  - SMS WordCloud (R)
+  - CSV Data Analyzer (R)
+    - Amazon Appstore Sales 
+    - Google Play Console
 <!--
 **visnkmr/visnkmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
