@@ -6,6 +6,8 @@
 [![](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=youtube)](https://youtube.com/@vishnunk)
 [![](https://img.shields.io/badge/-Website-white?&style=flat-square&logo=Google-Chrome)](https://visnk.pages.dev/)
 [![](https://img.shields.io/badge/-Gmail-white?&style=flat-square&logo=Gmail)](mailto:visnkmr@gmail.com)
+
+[![](https://data.jsdelivr.com/v1/package/gh/vishnunkmr/quickupdates/badge)](https://www.jsdelivr.com/package/gh/vishnunkmr/quickupdates)
       
 # Open Source Repos    
   - File Explorer with built in markdown viewer for Windows, Mac, Linux (Work In Progress)
