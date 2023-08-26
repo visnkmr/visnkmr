@@ -74,10 +74,10 @@
 - Developer Tools Menu for Fire TV (Java)
 
 Github CI/CD pipelines to remember:
-- Appcenter->Planetscale (visnkmr/apihub)
-- Codeberg->JSON (visnkmr/apihub@getnewcommits)
-- visnkmr/homepagev2 NextJS page built and push the exported files to visnkmr/visnkmr.github.io which is then served over jsdelivr cdn for website visnkmr.github.io
-- visnkmr/edge_release publishes a release whenever new version of edge available for linux.
+- Appcenter->Planetscale (visnkmr/apihub) [rust program run as daily cron job using ghAction]
+- Codeberg->JSON (visnkmr/apihub@getnewcommits) [rust program run as daily cron job using ghAction]
+- visnkmr/homepagev2 NextJS page built and push the exported files to visnkmr/visnkmr.github.io which is then served over jsdelivr cdn for website visnkmr.github.io [whenever new code pushed to main runs ghAction]
+- visnkmr/edge_release publishes a release whenever new version of edge available for linux. [rust program run as daily cron job using ghAction]
  
 # 👨‍💻
 Most repos are Mirror of local gitea repo for github.  
