@@ -76,8 +76,9 @@
 Github CI/CD pipelines to remember:
 - Appcenter->Planetscale (visnkmr/apihub) [rust program run as daily cron job using ghAction]
 - Codeberg->JSON (visnkmr/apihub@getnewcommits) [rust program run as daily cron job using ghAction]
-- visnkmr/homepagev2 NextJS page built and push the exported files to visnkmr/visnkmr.github.io which is then served over jsdelivr cdn for website visnkmr.github.io [whenever new code pushed to main runs ghAction]
+- visnkmr/homepagev2 NextJS page built and push the exported files to visnkmr/visnkmr.github.io and codeberg pages repo which is then served over jsdelivr cdn for website visnkmr.github.io and visnk.codeberg.page [whenever new code pushed to main runs ghAction]
 - visnkmr/edge_release publishes a release whenever new version of edge available for linux. [rust program run as daily cron job using ghAction]
+- visnkmr/filedime,visnkmr/wfmossfrontend auto release github action including artifacts for apple silicon devices.
  
 # 👨‍💻
 Most repos are Mirror of local gitea repo for github.  
