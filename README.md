@@ -79,9 +79,7 @@ Github CI/CD pipelines to remember:
 - visnkmr/homepagev2 NextJS page built and push the exported files to visnkmr/visnkmr.github.io and codeberg pages repo which is then served over jsdelivr cdn for website visnkmr.github.io and visnk.codeberg.page [whenever new code pushed to main runs ghAction]
 - visnkmr/edge_release publishes a release whenever new version of edge available for linux. [rust program run as daily cron job using ghAction]
 - visnkmr/filedime,visnkmr/wfmossfrontend auto release github action including artifacts for apple silicon devices.
- 
-# 👨‍💻
-Most repos are Mirror of local gitea repo for github.  
+   
 🛠️ Rust, Typescript, Java (Android), Kotlin  (Android), Javascript, HTML, CSS, Python, R, Swift (Basics), TCL, Linux, bash scripting  
 🖥️ Arch GNU/Linux, Win11  
 Local(SH): Gitea, Floccus, Dufs, Olivetin, Joplin, Weblinklist,Proxmox*, Nextcloud*, Github workflow.  
