@@ -10,7 +10,7 @@
 [![](https://data.jsdelivr.com/v1/package/gh/vishnunkmr/quickupdates/badge)](https://www.jsdelivr.com/package/gh/vishnunkmr/quickupdates)
       
 # Open Source Repos    
-  - [Wireless File Manager OSS Frontend](https://github.com/visnkmr/wfmossfrontend) using the REST API provided by Wireless File Manager app.
+  - [Wireless File Manager OSS Frontend](https://github.com/visnkmr/wfmossfrontend) using the REST API provided by [Wireless File Manager](https://github.com/visnkmr/wfm) app.
   - File Explorer with built in markdown viewer for Windows, Mac, Linux (Work In Progress)
       - [Single App](https://github.com/visnkmr/filedime). ~1MiB (Rust and Tauri)
       - [Markdown Viewer only](https://github.com/visnkmr/markdown_viewer_pc/). <1MiB (Rust and Tauri)
