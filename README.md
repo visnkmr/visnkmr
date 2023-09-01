@@ -47,6 +47,7 @@
   - Weblinklist(NPAY)
     - [NodeJS](#)
     - [Rust](#)
+  - [On Screen Remote](https://github.com/visnkmr/onscreenkeyboard) app for PCs like the remote offered by NoKeyboard on Android.
   - Take Notes (Kotlin): Uses coroutine, datastore
   - ADB Keyboard, Remote and Shell (Java)
       
