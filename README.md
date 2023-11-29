@@ -13,8 +13,8 @@
 
 
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>  
+
 ![Stats Overview](https://cdn.jsdelivr.net/gh/visnkmr/github-stats-transparent@output/generated/overview.svg)
 ![Most Used Languages](https://cdn.jsdelivr.net/gh/visnkmr/github-stats-transparent@output/generated/languages.svg)
 
@@ -68,7 +68,8 @@
   - [On Screen Remote](https://github.com/visnkmr/onscreenkeyboard) app for PCs like the remote offered by NoKeyboard on Android.
   - Take Notes (Kotlin): Uses coroutine, datastore
   - ADB Keyboard, Remote and Shell (Java)
-      
+
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=visnkmr&theme=react-dark&hide_border=false&area=true)  
 # Android apps, Desktop Apps, Libs
 
 <b><i>Powering 15million+ sessions.</i></b>
