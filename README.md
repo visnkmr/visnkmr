@@ -154,3 +154,11 @@ Here are some ideas to get you started:
 [perlink]: https://github-readme-stats.vercel.app/api/pin/?username=visnkmr&repo=perlink
 [osk]: https://github-readme-stats.vercel.app/api/pin/?username=visnkmr&repo=onscreenkeyboard
 [graph]: https://github-readme-activity-graph.vercel.app/graph?username=visnkmr&theme=react-dark&hide_border=false&area=true
+[bapl]:https://github-readme-stats.vercel.app/api/pin/?username=visnkmr&repo=backgroundappslist
+[fx]:https://github-readme-stats.vercel.app/api/pin/?username=visnkmr&repo=file_explorer
+[nk]:https://github-readme-stats.vercel.app/api/pin/?username=visnkmr&repo=nokeyboard
+[nst]:https://github-readme-stats.vercel.app/api/pin/?username=visnkmr&repo=netspeed-test
+[pm]:https://github-readme-stats.vercel.app/api/pin/?username=visnkmr&repo=powermenu
+[tn]:https://github-readme-stats.vercel.app/api/pin/?username=visnkmr&repo=takenotes
+[tns]:https://github-readme-stats.vercel.app/api/pin/?username=visnkmr&repo=timenetspeed
+[wfm]:https://github-readme-stats.vercel.app/api/pin/?username=visnkmr&repo=wfm
