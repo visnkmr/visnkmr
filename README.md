@@ -9,23 +9,12 @@
 
 [![](https://data.jsdelivr.com/v1/package/gh/vishnunkmr/quickupdates/badge)](https://www.jsdelivr.com/package/gh/vishnunkmr/quickupdates)
 
-<br>
-
-
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>  
-
-![Stats Overview](https://cdn.jsdelivr.net/gh/visnkmr/github-stats-transparent@output/generated/overview.svg)
-![Most Used Languages](https://cdn.jsdelivr.net/gh/visnkmr/github-stats-transparent@output/generated/languages.svg)
-
-</a>
-
-<br>
+<!-- <br>
 
 ![](https://cdn.jsdelivr.net/gh/visnkmr/visnkmr.github.io@main/appstore/images/bapl.png) 
 ![](https://cdn.jsdelivr.net/gh/visnkmr/visnkmr.github.io@main/appstore/images/pm.png) 
 ![](https://cdn.jsdelivr.net/gh/visnkmr/visnkmr.github.io@main/appstore/images/nokb.png)  
-
+-->
       
 # Open Source Repos    
 
@@ -36,6 +25,15 @@
 | <a href="https://github.com/visnkmr/wfmossfrontend">![wfmossfrontend] </a>  | |
 
 ![graph]  
+
+### 📊 Github Stats
+<a href='https://github.com/visnkmr/visnkmr'>  
+
+![Stats Overview](https://cdn.jsdelivr.net/gh/visnkmr/github-stats-transparent@output/generated/overview.svg)
+![Most Used Languages](https://cdn.jsdelivr.net/gh/visnkmr/github-stats-transparent@output/generated/languages.svg)
+
+</a>
+<br>
 
   - [Wireless File Manager OSS Frontend](https://github.com/visnkmr/wfmossfrontend) using the REST API provided by [Wireless File Manager](https://github.com/visnkmr/wfm) app.
   - File Explorer with built in markdown viewer for Windows, Mac, Linux (Work In Progress)
