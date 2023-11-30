@@ -53,6 +53,7 @@
             - [Netspeed GUI -11 MiB (Python)](https://github.com/visnkmr/ns_gui/releases/latest)  
           - Single Control UI (TCL)
             - [Control Center](https://github.com/visnkmr/netspeed_monitor_control_center)
+  - SSTP: Save sessions tabs to planetscale. It is a project that lets user save tabs to a planetscale db through a vercel api endpoint. It functions similar to onetab only difference being it lets users save the tabs to a planetscale db. It is completely self hostable using your own instance of mysql db instead of planetscale and local rust server instead of using vercel endpoint.
   - Rust crates
     - [Prefstore](https://github.com/visnkmr/prefstore) 
     - [Xbel-parser (NPAY)](#)
