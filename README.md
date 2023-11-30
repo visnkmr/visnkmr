@@ -34,6 +34,8 @@
 | <a href="https://github.com/visnkmr/LogLink2Disk_chrome">![lldchrome] </a>   | <a href="https://github.com/visnkmr/prefstore">![prefstore] </a>|
 | <a href="https://github.com/visnkmr/perlink">![perlink] </a>   | <a href="https://github.com/visnkmr/onscreenkeyboard">![osk] </a>|
 
+![graph]  
+
   - [Wireless File Manager OSS Frontend](https://github.com/visnkmr/wfmossfrontend) using the REST API provided by [Wireless File Manager](https://github.com/visnkmr/wfm) app.
   - File Explorer with built in markdown viewer for Windows, Mac, Linux (Work In Progress)
       - [Single App](https://github.com/visnkmr/filedime). ~1MiB (Rust and Tauri)
@@ -75,7 +77,7 @@
   - Take Notes (Kotlin): Uses coroutine, datastore
   - ADB Keyboard, Remote and Shell (Java)
 
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=visnkmr&theme=react-dark&hide_border=false&area=true)  
+
 # Android apps, Desktop Apps, Libs
 
 <b><i>Powering 15million+ sessions.</i></b>
@@ -85,8 +87,13 @@
               <a  href="https://www.amazon.com/gp/mas/dl/android?p=io.github.visnkmr.bapl&showAll=1"><img width="130px" src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-white.png" class="storebs bmargins" /></a>
 <!--                   <a  href="https://apps.microsoft.com/store/search?publisher=Vishnu%20N%20K"><img width="130px" src="https://get.microsoft.com/images/en-us%20dark.svg" class="storebs bmargins" /></a> -->
   </div>
-    
-    
+
+| <a href="https://github.com/visnkmr/backgroundappslist">![bapl] </a>   | <a href="https://github.com/visnkmr/wfm">![wfm] </a>|
+| :------------: | :--------: |
+| <a href="https://github.com/visnkmr/timenetspeed">![tns] </a>   | <a href="https://github.com/visnkmr/netspeed-test">![nst] </a>|
+| <a href="https://github.com/visnkmr/takenotes">![tn] </a>   | <a href="https://github.com/visnkmr/powermenu">![pm] </a>|
+| <a href="https://github.com/visnkmr/file_explorer">![fx] </a>   | <a href="https://github.com/visnkmr/nokeyboard">![nk] </a>|
+
 - Background Apps and Process List (Java) : Uses API, Volley, Accessibility in unreleased Autoclose version of the app.
 - File Explorer (Java) : Uses ForkJoin pool, Fuzzy Logic based search, Memoization, Glide, GSON, Recycleview.
 - Wireless File Manager (Java & WebUI frontend using NextJS, React, Tailwind)
@@ -146,3 +153,4 @@ Here are some ideas to get you started:
 [prefstore]: https://github-readme-stats.vercel.app/api/pin/?username=visnkmr&repo=prefstore
 [perlink]: https://github-readme-stats.vercel.app/api/pin/?username=visnkmr&repo=perlink
 [osk]: https://github-readme-stats.vercel.app/api/pin/?username=visnkmr&repo=onscreenkeyboard
+[graph]: https://github-readme-activity-graph.vercel.app/graph?username=visnkmr&theme=react-dark&hide_border=false&area=true
