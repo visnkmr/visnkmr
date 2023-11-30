@@ -28,6 +28,12 @@
 
       
 # Open Source Repos    
+
+| <a href="https://github.com/visnkmr/wfmossfrontend">![wfmossfrontend] </a>   | <a href="https://github.com/visnkmr/filedime">![filedime] </a>|
+| :------------: | :--------: |
+| <a href="https://github.com/visnkmr/LogLink2Disk_chrome">![lldchrome] </a>   | <a href="https://github.com/visnkmr/prefstore">![prefstore] </a>|
+| <a href="https://github.com/visnkmr/perlink">![perlink] </a>   | <a href="https://github.com/visnkmr/onscreenkeyboard">![osk] </a>|
+
   - [Wireless File Manager OSS Frontend](https://github.com/visnkmr/wfmossfrontend) using the REST API provided by [Wireless File Manager](https://github.com/visnkmr/wfm) app.
   - File Explorer with built in markdown viewer for Windows, Mac, Linux (Work In Progress)
       - [Single App](https://github.com/visnkmr/filedime). ~1MiB (Rust and Tauri)
@@ -131,3 +137,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!----------------------------------{ reference links }--------------------------------->
+
+[filedime]: https://github-readme-stats.vercel.app/api/pin/?username=visnkmr&repo=filedime
+[wfmossfrontend]: https://github-readme-stats.vercel.app/api/pin/?username=visnkmr&repo=wfmossfrontend
+[lldchrome]: https://github-readme-stats.vercel.app/api/pin/?username=visnkmr&repo=LogLink2Disk_chrome
+[prefstore]: https://github-readme-stats.vercel.app/api/pin/?username=visnkmr&repo=prefstore
+[perlink]: https://github-readme-stats.vercel.app/api/pin/?username=visnkmr&repo=perlink
+[osk]: https://github-readme-stats.vercel.app/api/pin/?username=visnkmr&repo=onscreenkeyboard
