@@ -52,7 +52,7 @@
             - [Netspeed GUI -11 MiB (Python)](https://github.com/visnkmr/ns_gui/releases/latest)  
           - Single Control UI (TCL)
             - [Control Center](https://github.com/visnkmr/netspeed_monitor_control_center)
-  - SSTP: Save sessions tabs to planetscale. It is a project that lets user save tabs to a planetscale db through a vercel api endpoint. It functions similar to onetab only difference being it lets users save the tabs to a planetscale db. It is completely self hostable using your own instance of mysql db instead of planetscale and local rust server instead of using vercel endpoint.
+  - SSTP: Save sessions tabs to MySQL. It is a project that lets user save tabs to a MySQL db through a vercel api endpoint. It functions similar to onetab only difference being it lets users save the tabs to a MySQL db. It is completely self hostable using your own instance of mysql db instead of MySQL and local rust server instead of using vercel endpoint.
   - Rust crates
     - [Prefstore](https://github.com/visnkmr/prefstore) 
     - [Xbel-parser (NPAY)](#)
@@ -107,7 +107,7 @@
 - Developer Tools Menu for Fire TV (Java)
 
 Github CI/CD pipelines to remember:
-- Appcenter->Planetscale (visnkmr/apihub) [rust program run as daily cron job using ghAction]
+- Appcenter->MySQL (visnkmr/apihub) [rust program run as daily cron job using ghAction]
 - Codeberg->JSON (visnkmr/apihub@getnewcommits) [rust program run as daily cron job using ghAction]
 - visnkmr/homepagev2 NextJS page built and push the exported files to visnkmr/visnkmr.github.io and codeberg pages repo which is then served over jsdelivr cdn for website visnkmr.github.io and visnk.codeberg.page [whenever new code pushed to main runs ghAction]
 - visnkmr/edge_release publishes a release whenever new version of edge available for linux. [rust program run as daily cron job using ghAction]
@@ -118,7 +118,7 @@ Github CI/CD pipelines to remember:
 Local(SH): Gitea, Floccus, Dufs, Olivetin, Joplin, Weblinklist,Proxmox*, Nextcloud*, Github workflow.  
 Helpful scripts: 
   - [ChecknLock](https://github.com/visnkmr/checknlock)
-  - [Codeberg,Gitea->Planetscale, Appcenter->Planetscale](https://github.com/visnkmr/apihub)
+  - [Codeberg,Gitea->JSON File, Appcenter->MySQL](https://github.com/visnkmr/apihub)
   - [Linux Disk Usage Monitor (Rust)](https://github.com/visnkmr/dude)
   - SMS WordCloud (R)
   - CSV Data Analyzer (R)
