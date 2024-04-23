@@ -35,7 +35,7 @@
 <br>
 
 
-  - [FileGPT-Filedime](https://github.com/visnkmr/filegpt-filedime) an api provider backend in python for quering files in [filedime](https://github.com/visnkmr/filedime] using llama3 and meloTTS, a more natural TTS model in Filedimespeech or via chrome extension for use in browsers. Uses RAG retrieval for fetching relevant content when quering.
+  - [FileGPT-Filedime](https://github.com/visnkmr/filegpt-filedime) an api provider backend in python for quering files in [filedime](https://github.com/visnkmr/filedime) using llama3 and meloTTS, a more natural TTS model in Filedimespeech or via chrome extension for use in browsers. Uses RAG retrieval for fetching relevant content when quering.
   - [Wireless File Manager OSS Frontend](https://github.com/visnkmr/wfmossfrontend) using the REST API provided by [Wireless File Manager](https://github.com/visnkmr/wfm) app.
   - File Explorer with built in markdown viewer for Windows, Mac, Linux (Work In Progress)
       - [Single App](https://github.com/visnkmr/filedime). ~1MiB (Rust and Tauri)
