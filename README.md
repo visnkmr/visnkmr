@@ -127,11 +127,10 @@ Helpful scripts:
     - Amazon Appstore Sales 
     - Google Play Console
 
-  
+<!--  
 ![](https://cdn.jsdelivr.net/gh/visnkmr/visnkmr.github.io@main/images/amzstore.webp)  
 <br>  
 ![](https://cdn.jsdelivr.net/gh/visnkmr/visnkmr.github.io@main/images/gplay.webp)  
-<!--
 **visnkmr/visnkmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
