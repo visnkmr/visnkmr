@@ -34,12 +34,11 @@
 </a>
 <br>
 
-
-  - [FileGPT-Filedime](https://github.com/visnkmr/filegpt-filedime) an api provider backend in python for quering files in [filedime](https://github.com/visnkmr/filedime) using llama3 and meloTTS, a more natural TTS model in Filedimespeech or via chrome extension for use in browsers. Uses RAG retrieval for fetching relevant content when quering.
-  - [Wireless File Manager OSS Frontend](https://github.com/visnkmr/wfmossfrontend) using the REST API provided by [Wireless File Manager](https://github.com/visnkmr/wfm) app.
-  - File Explorer with built in markdown viewer for Windows, Mac, Linux (Work In Progress)
+  - Fast cross platform feature rich File Explorer with option to chat with files (via llm using file as context)
       - [Single App](https://github.com/visnkmr/filedime). ~1MiB (Rust and Tauri)
       - [Markdown Viewer only](https://github.com/visnkmr/markdown_viewer_pc/). <1MiB (Rust and Tauri)
+  - [Batu](https://github.com/visnkmr/batu) chat ui to interact with llms provided via ollama, lmstudio or openrouter.
+  - [Wireless File Manager OSS Frontend](https://github.com/visnkmr/wfmossfrontend) using the REST API provided by [Wireless File Manager](https://github.com/visnkmr/wfm) app.
   - Netspeed monitor for Windows, Mac, Linux
       - [Single App](https://github.com/visnkmr/netspeed_pc/releases/latest). (Size:1MiB) (Tauri: HTML, CSS, JS (Typesript) GUI and Rust backend)
         - [Single app Using SSE](https://github.com/visnkmr/netspeed_pc) (recommended)
