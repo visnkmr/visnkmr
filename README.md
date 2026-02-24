@@ -87,13 +87,13 @@
               <a  href="https://www.amazon.com/gp/mas/dl/android?p=io.github.visnkmr.bapl&showAll=1"><img width="130px" src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-white.png" class="storebs bmargins" /></a>
 <!--                   <a  href="https://apps.microsoft.com/store/search?publisher=Vishnu%20N%20K"><img width="130px" src="https://get.microsoft.com/images/en-us%20dark.svg" class="storebs bmargins" /></a> -->
   </div>
-
+<!--
 | <a href="https://github.com/visnkmr/backgroundappslist">![bapl] </a>   | <a href="https://github.com/visnkmr/wfm">![wfm] </a>|
 | :------------: | :--------: |
 | <a href="https://github.com/visnkmr/timenetspeed">![tns] </a>   | <a href="https://github.com/visnkmr/netspeed-test">![nst] </a>|
 | <a href="https://github.com/visnkmr/takenotes">![tn] </a>   | <a href="https://github.com/visnkmr/powermenu">![pm] </a>|
 | <a href="https://github.com/visnkmr/file_explorer">![fx] </a>   | <a href="https://github.com/visnkmr/nokeyboard">![nk] </a>|
-
+-->
 - Background Apps and Process List (Java) : Uses API, Volley, Accessibility in unreleased Autoclose version of the app.
 - File Explorer (Java) : Uses ForkJoin pool, Fuzzy Logic based search, Memoization, Glide, GSON, Recycleview.
 - Wireless File Manager (Java & WebUI frontend using NextJS, React, Tailwind)
