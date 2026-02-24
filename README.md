@@ -14,7 +14,7 @@
 ![](https://cdn.jsdelivr.net/gh/visnkmr/visnkmr.github.io@main/appstore/images/pm.png) 
 ![](https://cdn.jsdelivr.net/gh/visnkmr/visnkmr.github.io@main/appstore/images/nokb.png)  
 -->
-      
+<!--      
 # Open Source Repos    
 
 |  <a href="https://github.com/visnkmr/filegpt-filedime">![fgpt] </a>  | <a href="https://github.com/visnkmr/filedime">![filedime] </a>|
@@ -22,7 +22,7 @@
 | <a href="https://github.com/visnkmr/LogLink2Disk_chrome">![lldchrome] </a>   | <a href="https://github.com/visnkmr/prefstore">![prefstore] </a>|
 | <a href="https://github.com/visnkmr/netspeed_pc">![nspc] </a>   | <a href="https://github.com/visnkmr/onscreenkeyboard">![osk] </a>|
 | <a href="https://github.com/visnkmr/wfmossfrontend">![wfmossfrontend] </a>  | <a href="https://github.com/visnkmr/perlink">![perlink] </a> |
-
+-->
 ![graph]  
 
 ### 📊 Github Stats
